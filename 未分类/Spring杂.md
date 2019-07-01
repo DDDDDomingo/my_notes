@@ -1,0 +1,3 @@
+Application Context Aware
+
+——静态变量无法使用@Autowired或者@Resource注入，通过继承Application可以获取实例bean并进行赋值
