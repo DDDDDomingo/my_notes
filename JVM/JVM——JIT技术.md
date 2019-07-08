@@ -1,8 +1,4 @@
----
-typora-root-url: images
----
-
-# JVM——JIT技术
+# JIT技术
 
 ### JIT简介：
 
@@ -42,7 +38,7 @@ JIT编译结合了两种传统机器代码翻译方法（提前编译AOT和解�
 
 ### HotSpot中JIT工作流程图：
 
-<div align="center"> <img src="/JIT_Schematic.png"> </div><br>
+<div align="center"> <img src="https://github.com/DDDDDomingo/my_notes/blob/master/JVM/images/JIT_Schematic.png"> </div><br>
 
 
 ![](/JIT_Schematic.png)
