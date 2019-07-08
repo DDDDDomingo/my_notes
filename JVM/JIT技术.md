@@ -38,7 +38,7 @@ JIT编译结合了两种传统机器代码翻译方法（提前编译AOT和解�
 
 ### HotSpot中JIT工作流程图：
 
-<div align="center"> <img src="/images/JIT_Schematic.png"> </div><br>
+<div align="center"> <img src="./images/JIT_Schematic.png"> </div><br>
 
 ### 启动延迟问题：
 
